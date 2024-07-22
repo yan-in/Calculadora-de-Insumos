@@ -1,0 +1,10 @@
+## Executar
+1. Abra a pasta "dist"
+2. Dê 2 cliques no arquivo "calculadora_insumos.exe"
+3. Aproveite!
+
+## Uso
+
+1. Escolha a Opção: Selecione se deseja calcular insumos para caixas de 12 pares, caixas de 6 pares, ou ambos.
+2. Digite os Corrugados: Insira a quantidade de corrugados separados por espaço para a opção selecionada.
+3. Clique em Calcular: O programa exibirá a quantidade total de corrugados e insumos necessários.
