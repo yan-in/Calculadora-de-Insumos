@@ -1,10 +1,23 @@
 # Calculadora de Insumos
 
+Projeto em Python para calcular a quantidade de insumos necessários para caixas de 6 e 12 pares.
+
+## Visão Geral
+Este projeto foi desenvolvido para automatizar o cálculo de insumos na produção, melhorando a eficiência e precisão.
+
+## Funcionalidades
+- Calcula insumos para caixas de 6 e 12 pares.
+- Interface de usuário intuitiva.
+
+## Como Usar
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/yan-in/Calculadora-de-Insumos.git
+   cd Calculadora-de-Insumos
 ## Descrição
 
 Este programa calcula a quantidade total de unidades (insumos) necessárias para preencher caixas de corrugados de 6 e 12 pares. É uma ferramenta útil para gerenciar inventário e otimizar o processo de embalagem.
-
-## Funcionalidades
 
 ### Uso
 
